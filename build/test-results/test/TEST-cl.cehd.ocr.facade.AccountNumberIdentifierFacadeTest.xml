@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.cehd.ocr.facade.AccountNumberIdentifierFacadeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-17T21:40:49" hostname="MacBook-Pro-de-Roberto.local" time="0.064">
+  <properties/>
+  <testcase name="integrationCataUseCase1" classname="cl.cehd.ocr.facade.AccountNumberIdentifierFacadeTest" time="0.064"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
